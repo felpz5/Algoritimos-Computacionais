@@ -1,2 +1,2 @@
 # Algoritimos-Computacionais
-## oi
+## Repositori para atividades da faculdade
